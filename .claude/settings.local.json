@@ -7,7 +7,9 @@
       "Bash(npm install *)",
       "Bash(cat ../../.env.local)",
       "Read(//d//**)",
-      "Bash(git commit -m 'feat\\(frontend\\): adicionar projeto React Vite com Supabase *)"
+      "Bash(git commit -m 'feat\\(frontend\\): adicionar projeto React Vite com Supabase *)",
+      "Bash(pkill -f vite)",
+      "Bash(npm run *)"
     ]
   }
 }
