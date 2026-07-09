@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git add *)"
+      "Bash(git add *)",
+      "Bash(git commit -m 'feat\\(backend\\): adicionar schema do Supabase *)",
+      "Bash(git push *)",
+      "Bash(npm install *)",
+      "Bash(cat ../../.env.local)",
+      "Read(//d//**)",
+      "Bash(git commit -m 'feat\\(frontend\\): adicionar projeto React Vite com Supabase *)"
     ]
   }
 }
